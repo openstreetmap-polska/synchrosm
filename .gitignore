@@ -132,3 +132,4 @@ dmypy.json
 *.sqlite
 *.oql
 .idea
+*.geojson
